@@ -1,0 +1,1 @@
+require "rubygems/commands/from_git_command"
