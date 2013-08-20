@@ -1,5 +1,7 @@
 # FromGit
 
+[![Gem Version](https://badge.fury.io/rb/from_git.png)](http://badge.fury.io/rb/from_git)
+
 FromGit is a tiny and straightforward rubygems plugin allowing you to install gem from git repositories.
 
 ## Installation
